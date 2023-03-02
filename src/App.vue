@@ -1,9 +1,20 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+</script>
+
+<template>
+  <RouterView />
+</template>
+
+<style scoped></style>
+
+
+<!-- <script setup lang="ts">
+// import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
   <div>
+    <p>agfdhjsoigaoifjoajdfogijadf</p>
     <a href="https://vitejs.dev" target="_blank">
       <img src="/vite.svg" class="logo" alt="Vite logo" />
     </a>
@@ -27,4 +38,4 @@ import HelloWorld from './components/HelloWorld.vue'
 .logo.vue:hover {
   filter: drop-shadow(0 0 2em #42b883aa);
 }
-</style>
+</style> -->
